@@ -8,3 +8,4 @@ Prices are sample BHD prices and should be replaced with confirmed prices before
 To change WhatsApp number edit WHATSAPP in data.js. To change products/prices edit PRODUCTS in data.js.
 
 To publish later upload all files and assets folder to your GitHub repo, then deploy on Vercel.
+Bahrain Fresh Farm website deployment update.
